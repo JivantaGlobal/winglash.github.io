@@ -1,11 +1,8 @@
 git init
-git remote add origin https://github.com/your-username/my-second-website.git
+git remote add origin https://github.com/jivantaglobal/wishlash.git
 git add .
 git commit -m "Initial commit"
 git push -u origin main
-<!DOCTYPE html>
-<html lang="en">
-<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WingLash - Professional Makeup Academy</title>
