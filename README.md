@@ -1,5 +1,8 @@
-# winglash.github.io
-MUA
+git init
+git remote add origin https://github.com/your-username/my-second-website.git
+git add .
+git commit -m "Initial commit"
+git push -u origin main
 <!DOCTYPE html>
 <html lang="en">
 <head>
