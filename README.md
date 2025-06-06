@@ -1,8 +1,8 @@
-# winglash.github.io
-MUA
-<!DOCTYPE html>
-<html lang="en">
-<head>
+git init
+git remote add origin https://github.com/jivantaglobal/wishlash.git
+git add .
+git commit -m "Initial commit"
+git push -u origin main
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WingLash - Professional Makeup Academy</title>
